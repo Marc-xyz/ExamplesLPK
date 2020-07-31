@@ -3,6 +3,15 @@
 ## Descrption:
 Sample examples of use LPK (GNU), Linear programming.
 
+## History 
+GLPK was developed by Andrew O. Makhorin (Андрей Олегович Махорин) of the Moscow Aviation Institute. The first public release was in October 2000.
+
+    Version 1.1.1 contained a library for a revised primal and dual simplex algorithm.
+    Version 2.0 introduced an implementation of the primal-dual interior point method.
+    Version 2.2 added branch and bound solving of mixed integer problems.
+    Version 2.4 added a first implementation of the GLPK/L modeling language.
+    Version 4.0 replaced GLPK/L by the GNU MathProg modeling language, which is a subset of the AMPL modeling language.
+ (Taken from `https://en.wikipedia.org/wiki/GNU_Linear_Programming_Kit`)
 ## Table of contents 
 ### `./GNULPK01`
 
