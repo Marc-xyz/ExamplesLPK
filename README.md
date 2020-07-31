@@ -1,4 +1,4 @@
-#README
+# ExamplesLPK
 
 ## Descrption:
 Sample examples of use LPK (GNU), Linear programming.
