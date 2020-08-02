@@ -27,12 +27,14 @@ GLPK was developed by Andrew O. Makhorin (Андрей Олегович Махо
 |`./ex4.sol`| Example 04 (Solution)
 |`./ex5.mod`| Example 05 (Code)|
 |`./ex5.sol`| Example 05 (Solution)|
+|`./ex6_1.mod`| Example 06_1 (Code)|
+|`./ex6_1.sol`| Example 06_1 (Solution)|
+|`./ex6_2.mod`| Example 06_2 (Code)|
+|`./ex6_2.sol`| Example 06_2 (Solution)|
+|`./ex6_3.mod`| Example 06_3 (Code)|
+|`./ex6_3.sol`|Example 06_3 (Solution)|
 
 ```
-ex6_1.mod
-ex6_1.sol
-ex6_2.mod
-ex6_2.sol
 ex6_3b.mod
 ex6_3b.sol
 ex6_3.mod
