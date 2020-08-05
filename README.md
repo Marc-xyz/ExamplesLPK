@@ -45,31 +45,14 @@ GLPK was developed by Andrew O. Makhorin (Андрей Олегович Махо
 |`./ex6_4e.sol`| Example 06_4e (Solution)|
 |`./ex6_5.mod`| Example 06_5 (Code)|
 |`./ex6_5.sol`| Example 06_5 (Solution)|
-
-
-ex6_3b.mod
-ex6_3b.sol
-ex6_3.mod
-ex6_3.sol
-ex6_4c.mod
-ex6_4c.sol
-ex6_4d.mod
-ex6_4d.sol
-ex6_4e.mod
-ex6_4e.sol
-ex6_4.mod
-ex6_4.sol
-ex6_5.mod
-ex6_5.sol
-ex6_6a.mod
-ex6_6a.sol
-ex6_6b.mod
-ex6_6b.prg
-ex6_6b.sol
-ex6_6c1.mod
-ex6_6c1.prg
-ex6_6c1.sol
-ex6_6c2.mod
-ex6_6c2.prg
-ex6_6c2.sol
-```
+|`./ex6_6a.mod`|Example 06_6a (Code)|
+|`./ex6_6a.sol`|Example 06_6a (Solution)|
+|`./ex6_6b.mod`| Example 06_6b (Code)|
+|`./ex6_6b.sol`| Example 06_6b (Solution)|
+|`./ex6_6b.prg`| Example 06_6b (Pseudocode)|
+|`./ex6_6c1.mod`| Example 06_6c1 (Code)|
+|`./ex6_6c1.sol`| Example 06_6c1 (Solution)|
+|`./ex6_6c1.prg`| Example 06_6c1 (Pseudocode)|
+|`./ex6_6c2.mod`| Example 06_6c2 (Code)|
+|`./ex6_6c2.prg`| Example 06_6c2 (Solution)|
+|`./ex6_6c2.prg`| Example 06_6c2 (Pseudocode)|
