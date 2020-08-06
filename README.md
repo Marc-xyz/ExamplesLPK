@@ -11,7 +11,13 @@ GLPK was developed by Andrew O. Makhorin (Андрей Олегович Махо
     Version 2.2 added branch and bound solving of mixed integer problems.
     Version 2.4 added a first implementation of the GLPK/L modeling language.
     Version 4.0 replaced GLPK/L by the GNU MathProg modeling language, which is a subset of the AMPL modeling language.
- (Taken from `https://en.wikipedia.org/wiki/GNU_Linear_Programming_Kit`)
+ 
+| [Taken from `https://en.wikipedia.org/wiki/GNU_Linear_Programming_Kit`](https://en.wikipedia.org/wiki/GNU_Linear_Programming_Kit) |
+|-------------------------|
+## *xBase* ?
+xBase is the generic term for all programming languages that derive from the original dBASE (Ashton-Tate) programming language and database formats. These are sometimes informally known as dBASE "clones". While there was a non-commercial predecessor to the Ashton-Tate product (Vulcan written by Wayne Ratliff), most clones are based on Ashton-Tate's 1986 dBASE III+ release — scripts written in the dBASE III+ dialect are most likely to run on all the clones. 
+|[Taken from `https://en.wikipedia.org/wiki/XBase`](https://en.wikipedia.org/wiki/XBase)|
+|------------|
 ## Table of contents 
 ### `./GNULPK01`
 
